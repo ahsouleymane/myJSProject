@@ -1,6 +1,6 @@
 /**
  * Class is introduced in JS in ECMAScript 6 (ES6) release
- */
+ */  
 
 function Employee(id, name, email){
     this.id = id
